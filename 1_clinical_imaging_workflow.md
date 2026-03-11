@@ -4,6 +4,7 @@ This document explains the basic workflow of a radiology study.
 
 ![alt text](1_clinical_imaging_workflow.png)
 
+```
 [HIS/EMR] --> Physician orders imaging study
      |
      v
@@ -26,7 +27,7 @@ This document explains the basic workflow of a radiology study.
      |
      v
 [HIS/EMR]  --> Report can be consulted by the requesting physician
-
+```
 
 # SYSTEM COMPONENTS
 
