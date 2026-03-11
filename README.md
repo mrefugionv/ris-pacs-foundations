@@ -7,22 +7,22 @@ This repository represents the foundation for advancing into real-world healthca
 
 ### 1. Clinical Imaging Workflow 
 [1_clinical_imaging_workflow](/1_clinical_imaging_workflow.md) 
-    - Description: This document explains the basic workflow of a radiology study.\
+    - Description: This document explains the basic workflow of a radiology study.
     - Keywords:
       ```
-      * Electronic Medical Record - EMR
-      * Hospital Information System - HIS
-      * Radiology Information System - RIS
-      * Picture Archieving and Communication System - PACS
-      * Modality
-      * Study Instance UID
-      * Series Instnace UID.
+        * Electronic Medical Record - EMR
+        * Hospital Information System - HIS
+        * Radiology Information System - RIS
+        * Picture Archieving and Communication System - PACS
+        * Modality
+        * Study Instance UID
+        * Series Instnace UID.
       ```
 
 
 ### 2. DICOM Basics
 [2_dicom_basics](/2_dicom_basics.md)
-  - Description: This document explains the basic concepts of DICOM standar; and a python exercise which demonstrates basic DICOM handling, including image visualization and extraction of key identifiers across the Patient–Study–Series–Instance hierarchy.\
+  - Description: This document explains the basic concepts of DICOM standar; and a python exercise which demonstrates basic DICOM handling, including image visualization and extraction of key identifiers across the Patient–Study–Series–Instance hierarchy.
   - Keywords:
     ```
     * Digital Imaging and Communication in Medicine - DICOM
@@ -37,7 +37,7 @@ This repository represents the foundation for advancing into real-world healthca
 
 ### 3. DICOM Networking
 [3_dicom_networking](/3_dicom_networking.md) 
-   - Description: This document explains the basic network mechanism on how clinical images and related information are exchenges between nodes.\
+   - Description: This document explains the basic network mechanism on how clinical images and related information are exchenges between nodes.
    - Keywords: 
    ```
    * Aplication Entity - **AE**
@@ -56,7 +56,7 @@ This repository represents the foundation for advancing into real-world healthca
 
 ### 4. PACS Architecture
 [4_pacs_arquitecture](/4_pacs_arquitecture.md)
-   - Description: This document explains the core infrastructure that stores, manages, distributes, and displays medical images within a healthcare organization.\
+   - Description: This document explains the core infrastructure that stores, manages, distributes, and displays medical images within a healthcare organization.
    - Keywords: 
    ```
    * Picture And Communication System - PACS,
@@ -79,7 +79,7 @@ This repository represents the foundation for advancing into real-world healthca
 
 ### 5. RIS-PACS Integration 
 [5_ris-pacs_integration](/5_ris-pacs_integration.md)
-   - Description: This document explains the coordinated workflow between administrative processesin RIS and medical imaging throughout the radiology workflow in PACS.\
+   - Description: This document explains the coordinated workflow between administrative processesin RIS and medical imaging throughout the radiology workflow in PACS.
    - Keywords:
    ```
     * Accession number
