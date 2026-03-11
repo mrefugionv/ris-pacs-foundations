@@ -7,9 +7,9 @@ This repository represents the foundation for advancing into real-world healthca
 
 ### 1. Clinical Imaging Workflow 
 [1_clinical_imaging_workflow](/1_clinical_imaging_workflow.md) 
-    - Description: This document explains the basic workflow of a radiology study.
-    - Keywords:
-      ```
+   - Description: This document explains the basic workflow of a radiology study.
+   - Keywords:
+       ```
         * Electronic Medical Record - EMR
         * Hospital Information System - HIS
         * Radiology Information System - RIS
@@ -17,7 +17,7 @@ This repository represents the foundation for advancing into real-world healthca
         * Modality
         * Study Instance UID
         * Series Instnace UID.
-      ```
+       ```
 
 
 ### 2. DICOM Basics
